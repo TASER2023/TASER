@@ -4,7 +4,7 @@
 Here we provide the code for generating the attack example described in the paper, and audio demos can be found on the [Demo Page](https://taser2023.github.io/).
 
 
-## Description of the code
+## Descriptions of the code
 
 - __taser_otl.py__: The implementation of __TASER-OTL__ which is described in the paper.
 
