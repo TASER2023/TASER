@@ -1,7 +1,7 @@
 # TASER
 ## The code of "TASER: Efficient Black-Box Attack on Speech Platforms via Perturbing Linguistic Embedding".
 
-Here we provide the method of generating the attack example described in the paper and more demos can be found in [Demo Page](https://taser2023.github.io/).
+Here we provide the code for generating the attack example described in the paper, and audio demos can be found on the [Demo Page](https://taser2023.github.io/).
 
 
 ## Description of the code
