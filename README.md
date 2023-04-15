@@ -1,7 +1,7 @@
 # ALIF
 ## The code of "ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms Using Linguistic Features".
 
-Here we provide the code for generating the attack example described in the paper, and audio demos can be found on the [Demo Page](https://taser2023.github.io/).
+Here we provide the code for generating the attack examples described in the paper, and audio demos can be found on the [Demo Page](https://taser2023.github.io/).
 
 
 ## Descriptions of the code
